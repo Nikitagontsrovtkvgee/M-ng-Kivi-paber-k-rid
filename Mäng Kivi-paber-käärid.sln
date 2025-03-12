@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mäng Kivi-paber-käärid", "Mäng Kivi-paber-käärid.pyproj", "{0A8188ED-627B-47E0-9AE8-1A960876BD79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8188ED-627B-47E0-9AE8-1A960876BD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8188ED-627B-47E0-9AE8-1A960876BD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A40DED2-0DB1-4B0F-B007-1D41E1B07B06}
+	EndGlobalSection
+EndGlobal
