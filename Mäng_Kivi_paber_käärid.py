@@ -12,5 +12,4 @@ m‰ngija_choice = input("Vali (Kivi, paber, k‰‰rid): ").capitilize()
 if m‰ngija_choice not in choices:
     print("Vale sisestus, proovi uuesti.")
 else:
-    computer_choice = random.choice(choices)
-    print(f"Arvuti valis: {computer_choice}")
+    
